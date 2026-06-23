@@ -1,0 +1,1 @@
+print("This year's world cup is going to be amazing!")
